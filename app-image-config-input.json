@@ -1,0 +1,15 @@
+"AppImageConfigName": "my-custom-image",
+    "KernelGatewayImageConfig": {
+        "KernelSpecs": [
+            {
+                "Name": "python3",
+                "DisplayName": "Python 3 with startup script"
+            }
+        ],
+        "FileSystemConfig": {
+            "MountPath": "/home/sagemaker-user",
+            "DefaultUid": 100,
+            "DefaultGid": 1000
+        }
+    }
+}
