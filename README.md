@@ -1,5 +1,7 @@
 # sm_studio_kernel_startup_script
 
+This is a sample custom notebook kernel image for **SageMaker Studio** which comes with a start-up script which run every time when the kernel starts.
+
 **Dockerfile**: for building the image
 
 **ipython_conf/post_install.sh**: this script will be called at kernel start-up
