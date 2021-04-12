@@ -1,4 +1,4 @@
-# sm_studio_kernel_startup_script
+# SageMaker Studio custom kernel image with start-up script
 
 This is a sample custom notebook kernel image for **SageMaker Studio** which comes with a start-up script which run every time when the kernel starts.
 
