@@ -1,0 +1,1 @@
+# sm_studio_kernel_startup_script
