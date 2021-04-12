@@ -1,6 +1,6 @@
 # Running a startup script as part of a custom SageMaker Studio Image
 
-This is a sample custom notebook kernel image for **SageMaker Studio** which comes with a start-up script and runs every time when the kernel starts.
+This repository showcases how to run a start-up script as part of the launch of a custom kernel.
 
 **Dockerfile**: for building the image
 
