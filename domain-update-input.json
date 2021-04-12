@@ -1,0 +1,14 @@
+{
+    "DomainId": "d-xvardyjy5ggb",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "image-with-script",
+                    "AppImageConfigName": "my-custom-image"
+                }
+            ]
+        }
+    }
+}
+
