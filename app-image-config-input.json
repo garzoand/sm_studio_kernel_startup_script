@@ -1,4 +1,5 @@
-"AppImageConfigName": "my-custom-image",
+{
+  "AppImageConfigName": "my-custom-image",
     "KernelGatewayImageConfig": {
         "KernelSpecs": [
             {
@@ -8,8 +9,8 @@
         ],
         "FileSystemConfig": {
             "MountPath": "/home/sagemaker-user",
-            "DefaultUid": 100,
-            "DefaultGid": 1000
+            "DefaultUid": 1000,
+            "DefaultGid": 100
         }
     }
 }
